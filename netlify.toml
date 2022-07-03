@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "npm i --force && gatsby build"
+  command = "gatsby build"
 
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
