@@ -34,6 +34,7 @@ module.exports = {
           }
         ],
         showThemeAuthor: false,
+        formatString: "YYYY.MM.DD"
       },
     },
     `gatsby-plugin-sitemap`,
